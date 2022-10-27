@@ -1,6 +1,7 @@
 ## To set up bot you will need: 
 
 ### • Linux system
+---
 it have to be online so I recommend to run bot in remote server, of course you can use your home PC  if you okay 
 <details> 
   <summary>If you don't know how to get one </summary> ㅤ
@@ -23,6 +24,7 @@ Run  command block below to update your system and install them
     pip3 install getch loguru requests
 
 ### • Bot token from BotFather
+---
 <details> 
   <summary>If you don't know how to get one </summary> 
   
