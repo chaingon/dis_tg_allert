@@ -26,10 +26,16 @@ Run  command block below to update your system and install them
 ### • Bot token from BotFather
 ---
 <details> 
-  <summary>If you don't know how to get one </summary> 
+  <summary>If you don't know how to get one </summary> ㅤ
   
-go to [BotFather bot](https://t.me/BotFather)
-
-
+  • go to [BotFather bot](https://t.me/BotFather) and create new bot 
+  
+  ![](https://i.ibb.co/h2bRBP2/Screenshot-55.png)
+   
+  • save token ;)
 
 </details>
+
+
+
+
